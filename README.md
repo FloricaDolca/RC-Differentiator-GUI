@@ -2,7 +2,7 @@
 
 This MATLAB project provides a **Graphical User Interface (GUI)** to simulate an **RC differentiator circuit**. Users can input circuit parameters and signal characteristics, visualize voltages, currents, and outputs, and analyze the behavior of the RC circuit over multiple periods.
 
-![GUI Screenshot](interfata.png)
+<img src="interfata.png" alt="GUI Screenshot" width="400"/>
 
 ## Features
 
