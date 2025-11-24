@@ -1,0 +1,12 @@
+clear all;
+close all;
+E0=0;
+E=5;
+f=1000;
+T=1/f;
+N=5;
+R=10*10^3;
+C=10*10^(-9);
+tau=R*C;
+D=0.5;
+derivare(E,T,f,N,R,C,tau,D,E0);
